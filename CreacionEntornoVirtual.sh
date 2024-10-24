@@ -19,4 +19,7 @@ echo "asyncpg" >> requierements.txt
 echo "psycopg2-binary" >> requierements.txt
 echo "alembic" >> requierements.txt
 echo "pydantic" >> requierements.txt
+echo "pandas" >> requierements.txt
+echo "boto3" >> requierements.txt
+echo "botocore" >> requierements.txt
 pip install -r requierements.txt
